@@ -1,0 +1,2 @@
+ - https://www.cl.cam.ac.uk/~caw77/papers/mechanising-and-verifying-the-webassembly-specification.pdf
+ - http://www0.cs.ucl.ac.uk/staff/j.alglave/papers/IEEEMicro24.pdf
